@@ -41,4 +41,103 @@ categories:
   - 코딩 테스트는 꾸준히 준비할 예정이다.
   - 깃과 깃허브 공부를 통해 포트폴리오를 만들 것이다. 지금까지 업로드한 나의 모든 파일들은 쓰레기라는 것을 인정하자.
   - 클론 코딩도 괜찮으니 Project 통해 공부하기.
+  - 메모리 관련 지식으로는 스택, 힙, 메모리 풀 등
 
+<br>
+
+- 자격증
+  - sqld
+  - 리눅스 마스터 2급 (?)
+  - 정보처리기사
+  - 게임프로그래밍전문가
+  - 게임그래픽전문가 
+  - 게임기획전문가
+  - OCP
+
+<br>
+
+ㅋㅋ 마크다운 문법 다 까먹었네
+
+<br>
+
+## 국방오픈소스아카데미
+
+<br>
+
+https://osam.kr/home
+
+<br>
+
+## Road Map
+
+<br>
+
+게임은.. 모든 컴퓨터 과학의 집합체.
+
+나에겐 로드맵이 필요하다.
+
+<br>
+
+<br>
+
+# Learn the Basics 
+
+<br>
+
+- Game Mathematics
+    - Linear Algebra, Vector, Matrix
+    - Projection (Perspective, Orthogonal)
+    - Geometry, Linear Transformation, Affine Space, Affine Trasnformation, Euler Angle, Quaternion
+    - Orientation (Euler Angle, Quaternion)
+    - Curve &rarr; Spline &rarr; Bezier
+
+<br>
+
+- Game Physics #1
+  - Dynamics #1
+    - Linear Velocity, Angular Velocity, Force, Acceleration, Center of Mass, Moment of Inertia
+  - Dynamics #2
+    - Joints, Restitution, Buoyancy, Friction
+
+<br>
+
+- Game Physics #2
+  - Collision Detection &rarr; Broad Phase &rarr; Bounding Volume (AABB, OBB) / Spatial Partitioning (Sort and Sweep, BVH)
+  - Narrow Phase, Intersection (SAT, GJK, EPA)
+  - Convexity &rarr; Convex (Convex Hull)
+  - &rarr; Concave (Convex Decomposition)
+
+<br>
+
+- Game Engine
+  - Unreal, Unity, Native, Godot
+
+<br>
+
+- Programming Languages
+  - Assembly, C/C++, C#
+  - Rust, Lua, Python
+
+<br>
+
+<br>
+
+# Getting Deeper
+
+<br>
+
+- Computer Graphics #1
+  - Ray Tracing, Rasterization, Graphics Pipeline, Sampling, Computer Animation
+  - Shader (Rendering Equation, Reflection, Diffuse, Specular, Mapping, Texture, Bump)
+
+<br>
+
+- Computer Graphics #2
+  - Lighting and Shadow
+    - Shadow Map (2D, Cube)
+    - Light Source (Directional Light, Point Light, Spot Light)
+  - Visibility and Occlusion
+    - Occluder (Fog), Culling (Frustum, Light, Shadow)
+    - Clipping (Polygon, Polyhedron)
+
+<br>
