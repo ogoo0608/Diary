@@ -141,3 +141,39 @@ https://osam.kr/home
     - Clipping (Polygon, Polyhedron)
 
 <br>
+
+- Graphics API
+  - DirectX (HLSL)
+  - OpenGL (GLSL)
+  - Vulkan (SPIR-V)
+  - WebGL
+
+<br>
+
+- Game AI #1
+  - Pathfinding (Dijkstra, A*, Jump Point Search)
+  - Decision Making (Decision Tree, State Machine, Behavior Tree)
+  - Board Game (Minimax)
+  - Movement
+
+<br>
+
+- Game AI #2
+  - Learning
+    - Reinforcement Learning
+    - Artificial Neural Network
+    - Deep Learning
+
+<br>
+
+- Advanced Rendering #1
+  - Decal, Billboard (Spherical, Cylindrical), Ambient Occlusion, Isosurface Extraction (Marching CUbe)
+
+<br>
+
+- Advanced Rendering #2
+  - Real-Time Ray Tracing (DirectX Raytracing)
+  - Physically-Based Rendering
+
+
+
