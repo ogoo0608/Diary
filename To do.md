@@ -150,6 +150,12 @@ https://osam.kr/home
 
 <br>
 
+<br>
+
+# Maximize My Skills
+
+<br>
+
 - Game AI #1
   - Pathfinding (Dijkstra, A*, Jump Point Search)
   - Decision Making (Decision Tree, State Machine, Behavior Tree)
