@@ -1,11 +1,3 @@
----
-layout: single
-title: "To do"
-categories:
-    - Study
----
-
-<br>
 
 ## To do (2022년 11월 18일)
 
